@@ -1,3 +1,3 @@
 # site-stages
 
-## Contributeurs - F.G.
+## Contributeurs - F.Gr
